@@ -19,7 +19,7 @@ If you encounter any problems, bugs, or have suggestions for improvements, pleas
 
 The repository is organized into different directories based on the different Data Structures. Each sub-directory contains the implementations and algorithms corresponding to that Data Structure in Java, Python and C++.
 
- - [Arrays](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays)
+- [Arrays](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays)
     - [Linear Search](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/linear-search) <span style="color:green">Easy</span>
     - [Binary Search](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/binary-search) <span style="color:green">Easy</span>
     - [Bubble Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/bubble-sort) <span style="color:green">Easy</span>
@@ -28,4 +28,5 @@ The repository is organized into different directories based on the different Da
     - [Count Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/count-sort) <span style="color:green">Easy</span>
     - [Merge Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/merge-sort) <span style="color:yellow">Medium</span>
     - [Quick Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/quick-sort) <span style="color:yellow">Medium</span>
+
 
