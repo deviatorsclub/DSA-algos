@@ -47,10 +47,22 @@ The repository is organized into different directories based on the different Da
     - [Implementation]
     - [BFS]
     - [DFS]
-      
+
+- [Heaps]
+    - [Min Heap Implementation]
+    - [Max Heap Implementation]
+    - [Heap Sort]
+
 - [Graphs]
-    - [Implementation]
+    - [Adjacency List Implementation]
+    - [Adjacency Matrix Implementation]
     - [BFS]
     - [DFS]
     - [Dijkstra's Algorithm]
     - [Topological Sort]
+    - [Bellman-Ford Algorithm]
+    - [Floyd-Warshall Algorithm]
+    - [Prim's Algorithm]
+    - [Kruskal Algorithm]
+ 
+
