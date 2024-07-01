@@ -64,5 +64,12 @@ The repository is organized into different directories based on the different Da
     - [Floyd-Warshall Algorithm]
     - [Prim's Algorithm]
     - [Kruskal Algorithm]
+
+- [Backtracking]
+    - [N-Queens Problem]
+    - [Sudoku Solver]
+ 
+- [Dynamic Programming]
+    - [Knapsack Problem]
  
 
