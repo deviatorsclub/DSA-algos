@@ -29,4 +29,28 @@ The repository is organized into different directories based on the different Da
     - [Merge Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/merge-sort) 🟨
     - [Quick Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/quick-sort) 🟨
 
+- [Matrices]
+    - [Linear Search]
+    - [Binary Search]
+    - [Spiral Traversal]
+    - [Matrix Multiplication]
 
+- [Strings]
+
+- [Linked List]
+    - [SLL Implementation]
+    - [DLL Implementation]
+    - [In-place reversal]
+    - [Cycle in LL]
+
+- [Trees]
+    - [Implementation]
+    - [BFS]
+    - [DFS]
+      
+- [Graphs]
+    - [Implementation]
+    - [BFS]
+    - [DFS]
+    - [Dijkstra's Algorithm]
+    - [Topological Sort]
