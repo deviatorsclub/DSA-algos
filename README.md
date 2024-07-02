@@ -29,11 +29,11 @@ The repository is organized into different directories based on the different Da
     - [Merge Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/merge-sort) 🟨
     - [Quick Sort](https://github.com/deviatorsclub/DSA-algos/tree/main/arrays/quick-sort) 🟨
 
-- [Matrices]
-    - [Linear Search]
+- [Matrices](https://github.com/deviatorsclub/DSA-algos/tree/main/matrices)
+    - [Linear Search](https://github.com/deviatorsclub/DSA-algos/tree/main/matrices/linear-search)
     - [Binary Search]
     - [Spiral Traversal]
-    - [Matrix Multiplication]
+    - [Matrix Multiplication](https://github.com/deviatorsclub/DSA-algos/tree/main/matrices/matrix-multiplication)
 
 - [Strings]
 
